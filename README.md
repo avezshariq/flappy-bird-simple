@@ -1,5 +1,5 @@
 # flappy-bird-simple
-A simple Flappy Bird game made in Python using PyGame
+A version of the classic Flappy Bird Game made in Python-PyGame. The game consists of 3 loops. The first one is a splash screen which features a simple animation. This disappears when space bar is clicked and starts the game. The bird goes down due to gravity action and when the space bar is pressed the bird makes a brief jump. This is an infinte game (there is no end goal) which could be played as long as possible.
 
 ![image](https://user-images.githubusercontent.com/79614977/160268471-462c8837-ee9b-4688-8b9e-4052e50188d7.png)
 
